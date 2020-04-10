@@ -1,0 +1,72 @@
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f94"), 
+    "SEMANTIQUE" : "EMAIL", 
+    "SUBSEMANTIQUE" : "EMAIL", 
+    "REGULAREXPR" : "^[A-Za-z][A-Za-z0-9.]*@[a-zA-Z0-9]+.(FR|fr|COM|com|[a-zA-Z]+)$"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f95"), 
+    "SEMANTIQUE" : "TEMPERATURE", 
+    "SUBSEMANTIQUE" : "TEMPERATUREC", 
+    "REGULAREXPR" : "^[0-9]+((.|,)?[0-9]+)?( )?°?( )*(C|CELCIUS)$"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f96"), 
+    "SEMANTIQUE" : "TEMPERATURE", 
+    "SUBSEMANTIQUE" : "TEMPERATUREF", 
+    "REGULAREXPR" : "^[0-9]+((.|,)?[0-9]+)?( )?°?( )*(F|FAHRENHEIT)$"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f97"), 
+    "SEMANTIQUE" : "MONNAIE", 
+    "SUBSEMANTIQUE" : "DOLLAR", 
+    "REGULAREXPR" : "^[0-9]+( )?$"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f98"), 
+    "SEMANTIQUE" : "MONNAIE", 
+    "SUBSEMANTIQUE" : "EUROS", 
+    "REGULAREXPR" : "^[0-9]+( )?€"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f99"), 
+    "SEMANTIQUE" : "MONNAIE", 
+    "SUBSEMANTIQUE" : "LIVRE", 
+    "REGULAREXPR" : "^[0-9]+( )?£"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f9a"), 
+    "SEMANTIQUE" : "POIDS", 
+    "SUBSEMANTIQUE" : "KILOGRAMMES", 
+    "REGULAREXPR" : "^([0-9]+((,|.)[0-9]+)?( )*(KG|KILOGRAMME|KILOGRAMMES))$"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f9b"), 
+    "SEMANTIQUE" : "POIDS", 
+    "SUBSEMANTIQUE" : "GRAMMES", 
+    "REGULAREXPR" : "^([0-9]+((,|.)[0-9]+)?( )*(G|GRAMME|GRAMMES))$"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f9c"), 
+    "SEMANTIQUE" : "MESURE", 
+    "SUBSEMANTIQUE" : "CENTIMETRES", 
+    "REGULAREXPR" : "^([0-9]+((,|.)[0-9]+)?( )*(CM|CENTIMETRE|CENTIMETRES))$"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f9d"), 
+    "SEMANTIQUE" : "MESURE", 
+    "SUBSEMANTIQUE" : "METRES", 
+    "REGULAREXPR" : "^([0-9]+((,|.)[0-9]+)?( )*(M|METRE|METRES))$"
+}
+{ 
+    "_id" : ObjectId("5e710cadf87edb1f570c1f9e"), 
+    "SEMANTIQUE" : "MESURE", 
+    "SUBSEMANTIQUE" : "KILOMETRES", 
+    "REGULAREXPR" : "^([0-9]+((,|.)[0-9]+)?( )*(KM|KILOMETRE|KILOMETRES))$"
+}
+{ 
+    "_id" : ObjectId("5e7236a7e03d727dfd15a50d"), 
+    "SEMANTIQUE" : "ID", 
+    "SUBSEMANTIQUE" : "ID", 
+    "REGULAREXPR" : "^ID[0-9]+$"
+}

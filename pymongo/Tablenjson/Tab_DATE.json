@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5e790b4be8d04f37dcb9b93b"), 
+    "SEMANTIQUE" : "DATE", 
+    "SUBSEMANTIQUE" : "DATE_NUM_FRENCH", 
+    "REGULAREXPR" : "^([0-2][0-9]|3[0-1])(-|/)(0[0-9]|1[0-2])(-|/)[0-9]{4}$"
+}
+{ 
+    "_id" : ObjectId("5e790b4be8d04f37dcb9b93c"), 
+    "SEMANTIQUE" : "DATE", 
+    "SUBSEMANTIQUE" : "DATE_NUM_ENGLISH", 
+    "REGULAREXPR" : "^(0[0-9]|1[0-2])(-|/)([0-2][0-9]|3[0-1])(-|/)[0-9]{4}$"
+}
+{ 
+    "_id" : ObjectId("5e790b4be8d04f37dcb9b93d"), 
+    "SEMANTIQUE" : "DATE", 
+    "SUBSEMANTIQUE" : "DATE_ALPHA_FRENCH", 
+    "REGULAREXPR" : "^([a-zA-ZàâçéèêëîïÉôûùüÿñæœ_°@+ -. ]+)?([0-2][0-9]|3[0-1])(-|s)([a-zA-ZàâçéèÉêëÛîïôûùüÿñæœ_°@+ -. ]+)(-|s)[0-9]{4}$"
+}
+{ 
+    "_id" : ObjectId("5e790b4be8d04f37dcb9b93e"), 
+    "SEMANTIQUE" : "DATE", 
+    "SUBSEMANTIQUE" : "DATE_ALPHA_ENGLISH", 
+    "REGULAREXPR" : "^([a-zA-Zàâçéèêëîïôûùüÿñæœ_°@+ -. ]+)?([0-2][0-9]|3[0-1])(-|s)(JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER)(-|s)[0-9]{4}$"
+}

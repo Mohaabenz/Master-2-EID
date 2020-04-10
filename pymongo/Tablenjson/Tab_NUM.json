@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("5e710caef87edb1f570c1fa3"), 
+    "SEMANTIQUE" : "NUMBER", 
+    "SUBSEMANTIQUE" : "INTEGER", 
+    "REGULAREXPR" : "^[0-9]+$"
+}
+{ 
+    "_id" : ObjectId("5e710caef87edb1f570c1fa4"), 
+    "SEMANTIQUE" : "NUMBER", 
+    "SUBSEMANTIQUE" : "FLOAT", 
+    "REGULAREXPR" : "^[0-9]+(.|,)[0-9]+$"
+}
+{ 
+    "_id" : ObjectId("5e7a283b00270c03d7b6492f"), 
+    "SEMANTIQUE" : "NUMBER", 
+    "SUBSEMANTIQUE" : "COORDONNEES", 
+    "REGULAREXPR" : "^(-)?[0-9]+(.)[0-9]+(,) (-)?[0-9]+(.)[0-9]+$"
+}

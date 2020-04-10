@@ -1,0 +1,5742 @@
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6464a"), 
+    "CATEGORY" : "CONTINENT", 
+    "ENGLISH" : "^AFRICA$", 
+    "FRENCH" : "^AFRIQUE$", 
+    "ABREVGENDEROTHER" : "AF", 
+    "PRIMARYKEY" : "CONTINENT01", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6464b"), 
+    "CATEGORY" : "CONTINENT", 
+    "ENGLISH" : "^AMERICA", 
+    "FRENCH" : "^AMÉRIQUE$", 
+    "ABREVGENDEROTHER" : "AM", 
+    "PRIMARYKEY" : "CONTINENT02", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6464c"), 
+    "CATEGORY" : "CONTINENT", 
+    "ENGLISH" : "^ASIA$", 
+    "FRENCH" : "^ASIE$", 
+    "ABREVGENDEROTHER" : "AS", 
+    "PRIMARYKEY" : "CONTINENT03", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6464d"), 
+    "CATEGORY" : "CONTINENT", 
+    "ENGLISH" : "^EUROPE$", 
+    "FRENCH" : "^EUROPE$", 
+    "ABREVGENDEROTHER" : "EU", 
+    "PRIMARYKEY" : "CONTINENT04", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6464e"), 
+    "CATEGORY" : "CONTINENT", 
+    "ENGLISH" : "^OCEANIA$", 
+    "FRENCH" : "^OCÉANIE$", 
+    "ABREVGENDEROTHER" : "OC", 
+    "PRIMARYKEY" : "CONTINENT05", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6464f"), 
+    "CATEGORY" : "CONTINENT", 
+    "ENGLISH" : "^Antarctica$", 
+    "FRENCH" : "^Antarctique$", 
+    "ABREVGENDEROTHER" : "AN", 
+    "PRIMARYKEY" : "CONTINENT06", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64650"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SOUTH-AFRICA$", 
+    "FRENCH" : "^AFRIQUE-DU-SUD$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY001", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64651"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ALGERIA$", 
+    "FRENCH" : "^ALGÉRIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY002", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64652"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ANGOLA$", 
+    "FRENCH" : "^ANGOLA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY003", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64653"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BENIN$", 
+    "FRENCH" : "^BÉNIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY004", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64654"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BOTSWANA$", 
+    "FRENCH" : "^BOTSWANA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY005", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64655"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BURKINA-FASO$", 
+    "FRENCH" : "^BURKINA-FASO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY006", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64656"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BURUNDI$", 
+    "FRENCH" : "^BURUNDI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY007", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64657"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CAMEROON$", 
+    "FRENCH" : "^CAMEROUN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY008", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64658"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CAPE-VERDE$", 
+    "FRENCH" : "^CAP-VERT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY009", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64659"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^COMOROS$", 
+    "FRENCH" : "^COMORES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY010", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6465a"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^IVORY-COAST$", 
+    "FRENCH" : "^CÔTE-D'IVOIRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY011", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6465b"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^DJIBOUTI$", 
+    "FRENCH" : "^DJIBOUTI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY012", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6465c"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^EGYPT$", 
+    "FRENCH" : "^EGYPTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY013", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6465d"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ETHIOPIA$", 
+    "FRENCH" : "^ETHIOPIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY014", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6465e"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GABON$", 
+    "FRENCH" : "^GABON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY015", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6465f"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GAMBIA$", 
+    "FRENCH" : "^GAMBIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY016", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64660"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GHANA$", 
+    "FRENCH" : "^GHANA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY017", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64661"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GUINEA$", 
+    "FRENCH" : "^GUINÉE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY018", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64662"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GUINEA-BISSAU$", 
+    "FRENCH" : "^GUINÉE-BISSAU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY019", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64663"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^EQUATORIAL-GUINEA$", 
+    "FRENCH" : "^GUINÉE-EQUATORIALE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY020", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64664"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^KENYA$", 
+    "FRENCH" : "^KENYA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY021", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64665"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LESOTHO$", 
+    "FRENCH" : "^LESOTHO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY022", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64666"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LIBERIA$", 
+    "FRENCH" : "^LIBÉRIA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY023", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64667"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LYBIA$", 
+    "FRENCH" : "^LYBIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY024", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64668"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MADAGASCAR$", 
+    "FRENCH" : "^MADAGASCAR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY025", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64669"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MALAWI$", 
+    "FRENCH" : "^MALAWI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY026", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6466a"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MOROCCO$", 
+    "FRENCH" : "^MAROC$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY027", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6466b"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MAURITIUS$", 
+    "FRENCH" : "^MAURICE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY028", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6466c"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MAURITANIA$", 
+    "FRENCH" : "^MAURITANIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY029", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6466d"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MOZAMBIQUE$", 
+    "FRENCH" : "^MOZAMBIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY030", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6466e"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NAMIBIA$", 
+    "FRENCH" : "^NAMIBIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY031", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6466f"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NIGER$", 
+    "FRENCH" : "^NIGER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY032", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64670"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NIGERIA$", 
+    "FRENCH" : "^NIGERIA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY033", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64671"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^UGANDA$", 
+    "FRENCH" : "^OUGANDA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY034", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64672"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^DEMOCRATIC-REPUBLIC-OF-CONGO$", 
+    "FRENCH" : "^RÉPUBLIQUE-DÉMOCRATIQUE-DU-CONGO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY035", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64673"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^REPUBLIC-OF-CONGO$", 
+    "FRENCH" : "^RÉPUBLIQUE-DU-CONGO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY036", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64674"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^RWANDA$", 
+    "FRENCH" : "^RWANDA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY037", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64675"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAO-TOMÉ-AND-PRINCIPLE$", 
+    "FRENCH" : "^SAO-TOMÉ-ET-PRINCIPE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY038", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64676"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SENEGAL$", 
+    "FRENCH" : "^SÉNÉGAL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY039", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64677"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SEYCHELLES$", 
+    "FRENCH" : "^SEYCHELLES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY040", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64678"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SIERRA-LEONE$", 
+    "FRENCH" : "^SIERRA-LEONE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY041", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64679"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SOMALIA$", 
+    "FRENCH" : "^SOMALIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY042", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6467a"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SUDAN$", 
+    "FRENCH" : "^SOUDAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY043", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6467b"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SWAZILAND$", 
+    "FRENCH" : "^SWAZILAND$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY044", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6467c"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TANZANIA$", 
+    "FRENCH" : "^TANZANIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY045", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6467d"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CHAD$", 
+    "FRENCH" : "^TCHAD$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY046", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6467e"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TOGO$", 
+    "FRENCH" : "^TOGO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY047", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6467f"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TUNISIA$", 
+    "FRENCH" : "^TUNISIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY048", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64680"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ZIMBABWE$", 
+    "FRENCH" : "^ZIMBABWE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT01COUNTRY049", 
+    "FOREIGNKEY" : "CONTINENT01"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64681"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ALASKA$", 
+    "FRENCH" : "^ALASKA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY001", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64682"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ANGUILLA$", 
+    "FRENCH" : "^ANGUILLA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY002", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64683"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ANTIGUA-AND-BARBUDA$", 
+    "FRENCH" : "^ANTIGUA-ET-BARBUDA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY003", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64684"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^DUTCH-ANTILLES$", 
+    "FRENCH" : "^ANTILLES-NÉERLANDAISES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY004", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64685"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ARGENTINA$", 
+    "FRENCH" : "^ARGENTINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY005", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64686"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ARUBA$", 
+    "FRENCH" : "^ARUBA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY006", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64687"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BAHAMAS$", 
+    "FRENCH" : "^BAHAMAS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY007", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64688"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BARBADIA$", 
+    "FRENCH" : "^BARBADE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY008", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64689"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BELIZE$", 
+    "FRENCH" : "^BELIZE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY009", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6468a"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BERMUDES$", 
+    "FRENCH" : "^BERMUDES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY010", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6468b"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BOLIVIA$", 
+    "FRENCH" : "^BOLIVIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY011", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6468c"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BRAZIL$", 
+    "FRENCH" : "^BRÉSIL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY012", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6468d"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CANADA$", 
+    "FRENCH" : "^CANADA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY013", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6468e"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CHILE$", 
+    "FRENCH" : "^CHILI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY014", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6468f"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^COLOMBIA$", 
+    "FRENCH" : "^COLOMBIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY015", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64690"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^COSTA-RICA$", 
+    "FRENCH" : "^COSTA-RICA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY016", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64691"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CUBA$", 
+    "FRENCH" : "^CUBA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY017", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64692"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^DOMINIQUE$", 
+    "FRENCH" : "^DOMINIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY018", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64693"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ECUADOR$", 
+    "FRENCH" : "^ÉQUATEUR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY019", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64694"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^UNITED-STATES-OF-AMERICA$", 
+    "FRENCH" : "^ÉTATS-UNIS-D'AMÉRIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY020", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64695"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SANDWICH-ISLANDS$", 
+    "FRENCH" : "^ILES-SANDWICH$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY021", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64696"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GRENADA$", 
+    "FRENCH" : "^GRENADE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY022", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64697"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GREENLAND$", 
+    "FRENCH" : "^GROENLAND$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY023", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64698"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GUADELOUPE$", 
+    "FRENCH" : "^GUADELOUPE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY024", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64699"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GUATEMALA$", 
+    "FRENCH" : "^GUATEMALA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY025", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6469a"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GUYANA$", 
+    "FRENCH" : "^GUYANE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY027", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6469b"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^HAITI$", 
+    "FRENCH" : "^HAÏTI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY028", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6469c"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^HONDURAS$", 
+    "FRENCH" : "^HONDURAS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY029", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6469d"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^JAMAICA$", 
+    "FRENCH" : "^JAMAÏQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY030", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6469e"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MALWAYS$", 
+    "FRENCH" : "^MALOUINES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY031", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6469f"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MARTINIQUE$", 
+    "FRENCH" : "^MARTINIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY032", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a0"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MEXICO$", 
+    "FRENCH" : "^MEXIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY033", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a1"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MONTSERRAT$", 
+    "FRENCH" : "^MONTSERRAT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY034", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a2"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NICARAGUA$", 
+    "FRENCH" : "^NICARAGUA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY035", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a3"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PANAMA$", 
+    "FRENCH" : "^PANAMA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY036", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a4"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PARAGUAY$", 
+    "FRENCH" : "^PARAGUAY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY037", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a5"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PERU$", 
+    "FRENCH" : "^PÉROU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY038", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a6"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PORTO-RICO$", 
+    "FRENCH" : "^PORTO-RICO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY039", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a7"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^DOMINICAN-REPUBLIC$", 
+    "FRENCH" : "^RÉPUBLIQUE-DOMINICAINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY040", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a8"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAINT-BARTHÉLEMY$", 
+    "FRENCH" : "^SAINT-BARTHÉLEMY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY041", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646a9"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAINT-CHRISTOPHER-AND-NEVIS$", 
+    "FRENCH" : "^SAINT-CHRISTOPHE-ET-NIÉVÈS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY042", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646aa"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAINTE-LUCIE$", 
+    "FRENCH" : "^SAINTE-LUCIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY043", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ab"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAINT-MARTIN-FR$", 
+    "FRENCH" : "^SAINT-MARTIN-FR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY044", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ac"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAINT-MARTIN$", 
+    "FRENCH" : "^SAINT-MARTIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY045", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ad"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAINT-PIERRE-ET-MIQUELON$", 
+    "FRENCH" : "^SAINT-PIERRE-ET-MIQUELON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY046", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ae"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAINT-VINCENT-AND-THE-GRENADINES$", 
+    "FRENCH" : "^SAINT-VINCENT-ET-LES-GRENADINES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY047", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646af"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SALVADOR$", 
+    "FRENCH" : "^SALVADOR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY048", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b0"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SURINAME$", 
+    "FRENCH" : "^SURINAME$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY049", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b1"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TRINIDAD-AND-TOBAGO$", 
+    "FRENCH" : "^TRINITÉ-ET-TOBAGO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY050", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b2"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^URUGUAY$", 
+    "FRENCH" : "^URUGUAY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY051", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b3"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^VENEZUELA$", 
+    "FRENCH" : "^VENEZUELA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY052", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b4"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^VIRGIN-AMERICAN-WOMEN$", 
+    "FRENCH" : "^VIERGES-AMÉRICAINES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY053", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b5"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BRITISH-VIRGIN-ISLANDS$", 
+    "FRENCH" : "^VIERGES-BRITANNIQUES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT02COUNTRY054", 
+    "FOREIGNKEY" : "CONTINENT02"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b6"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^AFGHANISTAN$", 
+    "FRENCH" : "^AFGHANISTAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY001", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b7"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ARABIA-SAOUDITE$", 
+    "FRENCH" : "^ARABIE-SAOUDITE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY002", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b8"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BAHRAIN$", 
+    "FRENCH" : "^BAHREÏN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY003", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646b9"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BANGLADESH$", 
+    "FRENCH" : "^BANGLADESH$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY004", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ba"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BHUTAN$", 
+    "FRENCH" : "^BHOUTAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY005", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646bb"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BURMA$", 
+    "FRENCH" : "^BIRMANIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY006", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646bc"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BRUNEI$", 
+    "FRENCH" : "^BRUNEI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY007", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646bd"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CAMBODIA$", 
+    "FRENCH" : "^CAMBODGE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY008", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646be"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CHINA$", 
+    "FRENCH" : "^CHINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY009", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646bf"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NORTH-KOREA$", 
+    "FRENCH" : "^CORÉE-DU-NORD$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY010", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c0"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SOUTH-KOREA$", 
+    "FRENCH" : "^CORÉE-DU-SUD$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY011", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c1"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^UNITED-ARAB-EMIRATES$", 
+    "FRENCH" : "^ÉMIRATS-ARABES-UNIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY012", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c2"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^HONG-KONG$", 
+    "FRENCH" : "^HONG-KONG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY013", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c3"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^INDIA$", 
+    "FRENCH" : "^INDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY014", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c4"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^INDONESIA$", 
+    "FRENCH" : "^INDONÉSIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY015", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c5"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^IRAQ$", 
+    "FRENCH" : "^IRAK$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY016", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c6"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^IRAN$", 
+    "FRENCH" : "^IRAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY017", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c7"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ISRAEL$", 
+    "FRENCH" : "^ISRAËL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY018", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c8"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^JAPAN$", 
+    "FRENCH" : "^JAPON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY019", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646c9"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^JORDAN$", 
+    "FRENCH" : "^JORDANIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY020", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ca"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^KAZAKHSTAN$", 
+    "FRENCH" : "^KAZAKHSTAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY021", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646cb"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^KIRGHIZISTAN$", 
+    "FRENCH" : "^KIRGHIZISTAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY022", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646cc"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^KOWEIT$", 
+    "FRENCH" : "^KOWEÏT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY023", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646cd"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LAOS$", 
+    "FRENCH" : "^LAOS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY024", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ce"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LEBANON$", 
+    "FRENCH" : "^LIBAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY025", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646cf"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MACAO$", 
+    "FRENCH" : "^MACAO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY026", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d0"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MALAYSIS$", 
+    "FRENCH" : "^MALAISIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY027", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d1"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MALDIVES$", 
+    "FRENCH" : "^MALDIVES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY028", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d2"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MONGOLY$", 
+    "FRENCH" : "^MONGOLIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY029", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d3"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NÉPAL$", 
+    "FRENCH" : "^NÉPAL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY030", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d4"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^OMAN$", 
+    "FRENCH" : "^OMAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY031", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d5"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^UZBEKISTAN$", 
+    "FRENCH" : "^OUZBÉKISTAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY032", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d6"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PAKISTAN$", 
+    "FRENCH" : "^PAKISTAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY033", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d7"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PALESTINE$", 
+    "FRENCH" : "^PALESTINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY034", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d8"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PHILIPPINES$", 
+    "FRENCH" : "^PHILIPPINES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY035", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646d9"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^QATAR$", 
+    "FRENCH" : "^QATAR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY036", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646da"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SINGAPORE$", 
+    "FRENCH" : "^SINGAPOUR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY037", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646db"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SRI-LANKA$", 
+    "FRENCH" : "^SRI-LANKA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY038", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646dc"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SYRIA$", 
+    "FRENCH" : "^SYRIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY039", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646dd"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TADJIKISTAN$", 
+    "FRENCH" : "^TADJIKISTAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY040", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646de"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TAIWAN$", 
+    "FRENCH" : "^TAIWAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY041", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646df"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^THAILAND$", 
+    "FRENCH" : "^THAÏLANDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY042", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e0"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TURKMENISTAN$", 
+    "FRENCH" : "^TURKMÉNISTAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY043", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e1"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^VIÊT-NAM$", 
+    "FRENCH" : "^VIÊT-NAM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY044", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e2"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^YEMEN$", 
+    "FRENCH" : "^YÉMEN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT03COUNTRY045", 
+    "FOREIGNKEY" : "CONTINENT03"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e3"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ALBANIA$", 
+    "FRENCH" : "^ALBANIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY001", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e4"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GERMANY$", 
+    "FRENCH" : "^ALLEMAGNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY002", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e5"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ANDORRA$", 
+    "FRENCH" : "^ANDORRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY003", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e6"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ARMENIA$", 
+    "FRENCH" : "^ARMÉNIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY004", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e7"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^AUSTRIA$", 
+    "FRENCH" : "^AUTRICHE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY005", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e8"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BALEAARES$", 
+    "FRENCH" : "^BALÉARES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY006", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646e9"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BELGIUM$", 
+    "FRENCH" : "^BELGIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY007", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ea"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BELARUSSY$", 
+    "FRENCH" : "^BIÉLORUSSIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY008", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646eb"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BOSNIA$", 
+    "FRENCH" : "^BOSNIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY009", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ec"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BOSNIA-HERZEGOVINA$", 
+    "FRENCH" : "^BOSNIE-HERZÉGOVINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY010", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ed"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^BULGARIA$", 
+    "FRENCH" : "^BULGARIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY011", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ee"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CYPRUS$", 
+    "FRENCH" : "^CHYPRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY012", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ef"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CRIMED$", 
+    "FRENCH" : "^CRIMÉE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY013", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f0"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CROATIA$", 
+    "FRENCH" : "^CROATIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY014", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f1"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^DENMARK$", 
+    "FRENCH" : "^DANEMARK$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY015", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f2"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SPAIN$", 
+    "FRENCH" : "^ESPAGNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY016", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f3"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ESTONIA$", 
+    "FRENCH" : "^ESTONIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY017", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f4"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^FARROE$", 
+    "FRENCH" : "^FÉROÉ$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY018", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f5"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^FINLAND$", 
+    "FRENCH" : "^FINLANDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY019", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f6"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^FRANCE$", 
+    "FRENCH" : "^FRANCE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY020", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f7"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GEORGIA$", 
+    "FRENCH" : "^GÉORGIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY021", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f8"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GIBRALTAR$", 
+    "FRENCH" : "^GIBRALTAR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY022", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646f9"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GREECE$", 
+    "FRENCH" : "^GRÈCE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY023", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646fa"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^HUNGARY$", 
+    "FRENCH" : "^HONGRIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY024", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646fb"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^IRELAND$", 
+    "FRENCH" : "^IRLANDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY025", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646fc"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ICELAND$", 
+    "FRENCH" : "^ISLANDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY026", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646fd"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ITALY$", 
+    "FRENCH" : "^ITALIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY027", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646fe"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^KOSOVO$", 
+    "FRENCH" : "^KOSOVO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY028", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b646ff"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LATVIA$", 
+    "FRENCH" : "^LETTONIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY029", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64700"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LIECHTENSTEIN$", 
+    "FRENCH" : "^LIECHTENSTEIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY030", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64701"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LITHUANIA$", 
+    "FRENCH" : "^LITUANIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY031", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64702"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^LUXEMBOURG$", 
+    "FRENCH" : "^LUXEMBOURG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY032", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64703"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MACEDOIN$", 
+    "FRENCH" : "^MACÉDOINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY033", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64704"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MALTA$", 
+    "FRENCH" : "^MALTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY034", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64705"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MOLDAVIA$", 
+    "FRENCH" : "^MOLDAVIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY035", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64706"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MONACO$", 
+    "FRENCH" : "^MONACO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY036", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64707"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MONTENEGRO$", 
+    "FRENCH" : "^MONTÉNÉGRO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY037", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64708"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NORWAY$", 
+    "FRENCH" : "^NORVÈGE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY038", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64709"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NETHERLANDS$", 
+    "FRENCH" : "^PAYS-BAS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY039", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6470a"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^POLAND$", 
+    "FRENCH" : "^POLOGNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY040", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6470b"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PORTUGAL$", 
+    "FRENCH" : "^PORTUGAL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY041", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6470c"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CZECH-REPUBLIC$", 
+    "FRENCH" : "^RÉPUBLIQUE-TCHÈQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY042", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6470d"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^ROMANIA$", 
+    "FRENCH" : "^ROUMANIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY043", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6470e"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^UNITED-KINGDOM$", 
+    "FRENCH" : "^ROYAUME-UNI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY044", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6470f"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^RUSSIA$", 
+    "FRENCH" : "^RUSSIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY045", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64710"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAINT-MARINE$", 
+    "FRENCH" : "^SAINT-MARIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY046", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64711"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SERBIA$", 
+    "FRENCH" : "^SERBIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY047", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64712"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SLOVAKIA$", 
+    "FRENCH" : "^SLOVAQUIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY048", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64713"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SLOVENIA$", 
+    "FRENCH" : "^SLOVÉNIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY049", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64714"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SWEDEN$", 
+    "FRENCH" : "^SUÈDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY050", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64715"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SWITZERLAND$", 
+    "FRENCH" : "^SUISSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY051", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64716"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TURKEY$", 
+    "FRENCH" : "^TURQUIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY052", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64717"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^UKRAINE$", 
+    "FRENCH" : "^UKRAINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY053", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64718"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^VATICAN$", 
+    "FRENCH" : "^VATICAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT04COUNTRY054", 
+    "FOREIGNKEY" : "CONTINENT04"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64719"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^AUSTRALIA$", 
+    "FRENCH" : "^AUSTRALIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY001", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6471a"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^CHRISTMAS$", 
+    "FRENCH" : "^CHRISTMAS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY002", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6471b"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^COCO$", 
+    "FRENCH" : "^COCO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY003", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6471c"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^FIDJI$", 
+    "FRENCH" : "^FIDJI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY004", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6471d"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^GUAM$", 
+    "FRENCH" : "^GUAM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY005", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6471e"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^HAWAY$", 
+    "FRENCH" : "^HAWAÏ$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY006", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6471f"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^KIRIBATI$", 
+    "FRENCH" : "^KIRIBATI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY007", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64720"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MARIANNE$", 
+    "FRENCH" : "^MARIANNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY008", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64721"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MARSHALL$", 
+    "FRENCH" : "^MARSHALL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY009", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64722"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^MICRONESIA$", 
+    "FRENCH" : "^MICRONÉSIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY010", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64723"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NAURU$", 
+    "FRENCH" : "^NAURU $", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY011", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64724"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NIUE$", 
+    "FRENCH" : "^NIUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY012", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64725"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NORFOLK$", 
+    "FRENCH" : "^NORFOLK$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY013", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64726"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NEW-CALEDONIA$", 
+    "FRENCH" : "^NOUVELLE-CALÉDONIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY014", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64727"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^NEW-ZEALAND$", 
+    "FRENCH" : "^NOUVELLE-ZÉLANDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY015", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64728"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PALAU$", 
+    "FRENCH" : "^PALAU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY016", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64729"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PAPUA-NEW-GUINEA$", 
+    "FRENCH" : "^PAPOUASIE-NOUVELLE-GUINÉE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY017", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6472a"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^EASTERN$", 
+    "FRENCH" : "^PÂQUES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY018", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6472b"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^PITCAIRN$", 
+    "FRENCH" : "^PITCAIRN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY019", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6472c"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^POLYNESIA-FRENCH$", 
+    "FRENCH" : "^POLYNÉSIE-FRANÇAISE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY020", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6472d"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SALOMON$", 
+    "FRENCH" : "^SALOMON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY021", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6472e"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAMOA$", 
+    "FRENCH" : "^SAMOA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY022", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6472f"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^SAMOA-AMERICANA$", 
+    "FRENCH" : "^SAMOA-AMÉRICAINES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY023", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64730"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TONGA$", 
+    "FRENCH" : "^TONGA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY024", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64731"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^TUVALU$", 
+    "FRENCH" : "^TUVALU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY025", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64732"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^VANUATED$", 
+    "FRENCH" : "^VANUATU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY026", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64733"), 
+    "CATEGORY" : "COUNTRY", 
+    "ENGLISH" : "^WALLIS-AND-FUTUNA$", 
+    "FRENCH" : "^WALLIS-ET-FUTUNA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CONTINENT05COUNTRY027", 
+    "FOREIGNKEY" : "CONTINENT05"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64734"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CHALONS-EN-CHAMPAGNE$", 
+    "FRENCH" : "^CHALONS-EN-CHAMPAGNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00001", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64735"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NICE$", 
+    "FRENCH" : "^NICE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00002", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64736"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^AIX-EN-PROVENCE$", 
+    "FRENCH" : "^AIX-EN-PROVENCE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00003", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64737"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CAEN$", 
+    "FRENCH" : "^CAEN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00004", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64738"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BOURGES$", 
+    "FRENCH" : "^BOURGES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00005", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64739"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^DIJON$", 
+    "FRENCH" : "^DIJON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00006", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6473a"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BREST$", 
+    "FRENCH" : "^BREST$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00007", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6473b"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^TOULOUSE$", 
+    "FRENCH" : "^TOULOUSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00008", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6473c"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^PESSAC$", 
+    "FRENCH" : "^PESSAC$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00009", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6473d"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MONTPELLIER$", 
+    "FRENCH" : "^MONTPELLIER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00010", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6473e"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^RENNES$", 
+    "FRENCH" : "^RENNES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00011", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6473f"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-ETIENNE$", 
+    "FRENCH" : "^SAINT-ETIENNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00012", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64740"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ANGERS$", 
+    "FRENCH" : "^ANGERS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00013", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64741"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^REIMS$", 
+    "FRENCH" : "^REIMS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00014", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64742"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LORIENT$", 
+    "FRENCH" : "^LORIENT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00015", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64743"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^METZ$", 
+    "FRENCH" : "^METZ$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00016", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64744"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LILLE$", 
+    "FRENCH" : "^LILLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00017", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64745"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ROUBAIX$", 
+    "FRENCH" : "^ROUBAIX$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00018", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64746"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^DUNKERQUE$", 
+    "FRENCH" : "^DUNKERQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00019", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64747"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^VILLENEUVE-D-ASCQ$", 
+    "FRENCH" : "^VILLENEUVE-D-ASCQ$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00020", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64748"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^COMPIEGNE$", 
+    "FRENCH" : "^COMPIEGNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00021", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64749"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ARRAS$", 
+    "FRENCH" : "^ARRAS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00022", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6474a"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^AUBIERE$", 
+    "FRENCH" : "^AUBIERE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00023", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6474b"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^STRASBOURG$", 
+    "FRENCH" : "^STRASBOURG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00024", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6474c"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LYON$", 
+    "FRENCH" : "^LYON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6474d"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^VILLEURBANNE$", 
+    "FRENCH" : "^VILLEURBANNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00026", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6474e"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^VAULX-EN-VELIN$", 
+    "FRENCH" : "^VAULX-EN-VELIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00027", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6474f"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^PARIS$", 
+    "FRENCH" : "^PARIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64750"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^TOULON$", 
+    "FRENCH" : "^TOULON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00029", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64751"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^PALAISEAU$", 
+    "FRENCH" : "^PALAISEAU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00030", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64752"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-DENIS$", 
+    "FRENCH" : "^SAINT-DENIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00031", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64753"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-DENIS-LA-PLAINE$", 
+    "FRENCH" : "^SAINT-DENIS-LA-PLAINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00032", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64754"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MAISONS-ALFORT$", 
+    "FRENCH" : "^MAISONS-ALFORT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00033", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64755"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ARCUEIL$", 
+    "FRENCH" : "^ARCUEIL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00034", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64756"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NOUMEA$", 
+    "FRENCH" : "^NOUMEA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00035", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64757"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^FAAA$", 
+    "FRENCH" : "^FAAA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00036", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64758"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MARSEILLE$", 
+    "FRENCH" : "^MARSEILLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00037", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64759"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LA-ROCHELLE$", 
+    "FRENCH" : "^LA-ROCHELLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00038", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6475a"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^TALENCE$", 
+    "FRENCH" : "^TALENCE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00039", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6475b"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BRUZ$", 
+    "FRENCH" : "^BRUZ$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00040", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6475c"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^GRENOBLE$", 
+    "FRENCH" : "^GRENOBLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00041", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6475d"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ORLEANS$", 
+    "FRENCH" : "^ORLEANS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00042", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6475e"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CLERMONT-FERRAND$", 
+    "FRENCH" : "^CLERMONT-FERRAND$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00043", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6475f"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MARCY-L-ETOILE$", 
+    "FRENCH" : "^MARCY-L-ETOILE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00044", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64760"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ECULLY$", 
+    "FRENCH" : "^ECULLY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00045", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64761"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MONT-SAINT-AIGNAN$", 
+    "FRENCH" : "^MONT-SAINT-AIGNAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00046", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64762"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LE-HAVRE$", 
+    "FRENCH" : "^LE-HAVRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00047", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64763"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^FONTAINEBLEAU$", 
+    "FRENCH" : "^FONTAINEBLEAU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00048", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64764"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MONTIGNY-LE-BRETONNEUX$", 
+    "FRENCH" : "^MONTIGNY-LE-BRETONNEUX$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00049", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64765"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^AMIENS$", 
+    "FRENCH" : "^AMIENS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00050", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64766"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ALBI$", 
+    "FRENCH" : "^ALBI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00051", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64767"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^AVIGNON$", 
+    "FRENCH" : "^AVIGNON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00052", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64768"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CHASSENEUIL$", 
+    "FRENCH" : "^CHASSENEUIL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00053", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64769"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^POITIERS$", 
+    "FRENCH" : "^POITIERS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00054", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6476a"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SEVRES$", 
+    "FRENCH" : "^SEVRES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00055", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6476b"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NANTERRE$", 
+    "FRENCH" : "^NANTERRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00056", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6476c"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-OUEN$", 
+    "FRENCH" : "^SAINT-OUEN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00057", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6476d"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CACHAN$", 
+    "FRENCH" : "^CACHAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00058", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6476e"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CERGY$", 
+    "FRENCH" : "^CERGY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00059", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6476f"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CERGY-PONTOISE$", 
+    "FRENCH" : "^CERGY-PONTOISE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00060", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64770"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CORTE$", 
+    "FRENCH" : "^CORTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00061", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64771"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CAYENNE$", 
+    "FRENCH" : "^CAYENNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00062", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64772"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-DENIS-MESSAG$", 
+    "FRENCH" : "^SAINT-DENIS-MESSAG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00063", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64773"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SALON-AIR$", 
+    "FRENCH" : "^SALON-AIR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00064", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64774"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^TROYES$", 
+    "FRENCH" : "^TROYES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00065", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64775"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^EPRON$", 
+    "FRENCH" : "^EPRON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00066", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64776"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BESANCON$", 
+    "FRENCH" : "^BESANCON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00067", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64777"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BORDEAUX$", 
+    "FRENCH" : "^BORDEAUX$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00068", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64778"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^TOURS$", 
+    "FRENCH" : "^TOURS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00069", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64779"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-MARTIN-D-HERES$", 
+    "FRENCH" : "^SAINT-MARTIN-D-HERES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00070", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6477a"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NANTES$", 
+    "FRENCH" : "^NANTES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00071", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6477b"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LES-PONTS-DE-CE$", 
+    "FRENCH" : "^LES-PONTS-DE-CE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00072", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6477c"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-BARTHELEMY-D-ANJOU$", 
+    "FRENCH" : "^SAINT-BARTHELEMY-D-ANJOU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00073", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6477d"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NANCY$", 
+    "FRENCH" : "^NANCY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00074", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6477e"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BEAUVAIS$", 
+    "FRENCH" : "^BEAUVAIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00075", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6477f"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^PAU-UNIVERSITE$", 
+    "FRENCH" : "^PAU-UNIVERSITE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00076", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64780"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^PERPIGNAN$", 
+    "FRENCH" : "^PERPIGNAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00077", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64781"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LE-MANS$", 
+    "FRENCH" : "^LE-MANS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00078", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64782"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CHAMPS-SUR-MARNE$", 
+    "FRENCH" : "^CHAMPS-SUR-MARNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00079", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64783"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^VERSAILLES$", 
+    "FRENCH" : "^VERSAILLES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00080", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64784"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LIMOGES$", 
+    "FRENCH" : "^LIMOGES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00081", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64785"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ORSAY$", 
+    "FRENCH" : "^ORSAY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00082", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64786"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^EVRY$", 
+    "FRENCH" : "^EVRY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00083", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64787"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SCEAUX$", 
+    "FRENCH" : "^SCEAUX$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00084", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64788"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^PARIS-LA-DÉFENSE$", 
+    "FRENCH" : "^PARIS-LA-DÉFENSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00085", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64789"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^PONTOISE$", 
+    "FRENCH" : "^PONTOISE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00086", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6478a"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^GRADIGNAN$", 
+    "FRENCH" : "^GRADIGNAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00087", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6478b"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^EURALILLE$", 
+    "FRENCH" : "^EURALILLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00088", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6478c"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BAYONNE$", 
+    "FRENCH" : "^BAYONNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00089", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6478d"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MULHOUSE$", 
+    "FRENCH" : "^MULHOUSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00090", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6478e"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^DARNETAL$", 
+    "FRENCH" : "^DARNETAL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00091", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6478f"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-ETIENNE-DU-ROUVRAY$", 
+    "FRENCH" : "^SAINT-ETIENNE-DU-ROUVRAY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00092", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64790"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MARNE-LA-VALLEE$", 
+    "FRENCH" : "^MARNE-LA-VALLEE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00093", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64791"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CRETEIL$", 
+    "FRENCH" : "^CRETEIL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00094", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64792"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^JOUY-EN-JOSAS$", 
+    "FRENCH" : "^JOUY-EN-JOSAS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00095", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64793"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SEVENANS$", 
+    "FRENCH" : "^SEVENANS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00096", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64794"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SURESNES$", 
+    "FRENCH" : "^SURESNES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00097", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64795"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NOISY-LE-GRAND$", 
+    "FRENCH" : "^NOISY-LE-GRAND$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00098", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64796"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^DEMBENI$", 
+    "FRENCH" : "^DEMBENI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00099", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64797"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MOUGINS$", 
+    "FRENCH" : "^MOUGINS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00100", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64798"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CAGNES-SUR-MER$", 
+    "FRENCH" : "^CAGNES-SUR-MER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00101", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64799"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NIMES$", 
+    "FRENCH" : "^NIMES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00102", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6479a"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CASTANET-TOLOSAN$", 
+    "FRENCH" : "^CASTANET-TOLOSAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00103", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6479b"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^AULNOY-LEZ-VALENCIENNES$", 
+    "FRENCH" : "^AULNOY-LEZ-VALENCIENNES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00104", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6479c"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^TARBES$", 
+    "FRENCH" : "^TARBES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00105", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6479d"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CHAMBERY$", 
+    "FRENCH" : "^CHAMBERY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00106", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6479e"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-ETIENNE-ROUVRAY$", 
+    "FRENCH" : "^SAINT-ETIENNE-ROUVRAY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00107", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6479f"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ROUEN$", 
+    "FRENCH" : "^ROUEN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00108", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a0"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LA-ROCHE-SUR-YON$", 
+    "FRENCH" : "^LA-ROCHE-SUR-YON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00109", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a1"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SAINT-AUBIN$", 
+    "FRENCH" : "^SAINT-AUBIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00110", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a2"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^GIF-SUR-YVETTE$", 
+    "FRENCH" : "^GIF-SUR-YVETTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00111", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a3"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^VILLETANEUSE$", 
+    "FRENCH" : "^VILLETANEUSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00112", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a4"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^VILLEJUIF$", 
+    "FRENCH" : "^VILLEJUIF$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00113", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY020"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a5"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^TUNIS$", 
+    "FRENCH" : "^TUNIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00001", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a6"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MATEUR$", 
+    "FRENCH" : "^MATEUR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00002", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a7"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SOUSSE$", 
+    "FRENCH" : "^SOUSSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00003", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a8"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SFAX$", 
+    "FRENCH" : "^SFAX$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00004", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647a9"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BIZERTE$", 
+    "FRENCH" : "^BIZERTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00005", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647aa"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NABEUL$", 
+    "FRENCH" : "^NABEUL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00006", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ab"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^HAMMAMET$", 
+    "FRENCH" : "^HAMMAMET$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00007", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ac"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MONASTIR$", 
+    "FRENCH" : "^MONASTIR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00008", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ad"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BEJA$", 
+    "FRENCH" : "^BEJA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00009", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ae"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^DJERBA$", 
+    "FRENCH" : "^DJERBA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "TNCITY_00010", 
+    "FOREIGNKEY" : "CONTINENT01COUNTRY048"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647af"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LONDON$", 
+    "FRENCH" : "^LONDRES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00001", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b0"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SHEFFIELDS$", 
+    "FRENCH" : "^CHEFFIELDS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00002", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b1"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BRISTOL$", 
+    "FRENCH" : "^BRISTOL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00003", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b2"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LEEDS$", 
+    "FRENCH" : "^LEEDS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00004", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b3"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^EDIMBOURG$", 
+    "FRENCH" : "^EDIMBOURG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00005", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b4"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CARDIFF$", 
+    "FRENCH" : "^CARDIFF$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00006", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b5"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^STROKE$", 
+    "FRENCH" : "^STROKE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00007", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b6"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^KINGSTON$", 
+    "FRENCH" : "^KINGSTON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00008", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b7"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BELFAST$", 
+    "FRENCH" : "^BELFAST$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00009", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b8"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BRADFORD$", 
+    "FRENCH" : "^BRADFORD$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00010", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647b9"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^COVENTRY$", 
+    "FRENCH" : "^COVENTRY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00011", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ba"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NEWCASTLE$", 
+    "FRENCH" : "^NEWCASTLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00012", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647bb"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^PLYMOUTH$", 
+    "FRENCH" : "^PLYMOUTH$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00013", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647bc"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SOUTHAMPTON$", 
+    "FRENCH" : "^SOUTHAMPTON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00014", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647bd"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^LECEISTER$", 
+    "FRENCH" : "^LECEISTER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00015", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647be"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BIRMINGHAM$", 
+    "FRENCH" : "^BIRMINGHAM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00016", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647bf"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^GLASGOW$", 
+    "FRENCH" : "^GLASGOW$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00017", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c0"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^READING$", 
+    "FRENCH" : "^READING$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00018", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c1"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MANCHESTER$", 
+    "FRENCH" : "^MANCHESTER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "UKCITY_00019", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY044"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c2"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^BEIJING$", 
+    "FRENCH" : "^PÉKIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00001", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c3"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SHANGHAI$", 
+    "FRENCH" : "^SHANGHAI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00002", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c4"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CANTON$", 
+    "FRENCH" : "^CANTON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00004", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c5"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SHENZHEN$", 
+    "FRENCH" : "^SHENZHEN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00005", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c6"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^DONGGUAN$", 
+    "FRENCH" : "^DONGGUAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00006", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c7"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^TIANJIN$", 
+    "FRENCH" : "^TIANJIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00007", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c8"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^HONG KONG$", 
+    "FRENCH" : "^HONG KONG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00008", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647c9"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^WUHAN$", 
+    "FRENCH" : "^WUHAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00009", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ca"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SHENYANG$", 
+    "FRENCH" : "^SHENYANG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00010", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647cb"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NANKIN$", 
+    "FRENCH" : "^NANKIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00011", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647cc"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CHONGQING$", 
+    "FRENCH" : "^CHONGQING$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00012", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647cd"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CHENGDU$", 
+    "FRENCH" : "^CHENGDU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00013", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ce"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^HANGZHOU$", 
+    "FRENCH" : "^HANGZHOU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00014", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647cf"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^XI'AN$", 
+    "FRENCH" : "^XI'AN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00015", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d0"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^QINGDAO$", 
+    "FRENCH" : "^QINGDAO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00016", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d1"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^HARBIN$", 
+    "FRENCH" : "^HARBIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00017", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d2"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CHANGCHUN$", 
+    "FRENCH" : "^CHANGCHUN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00018", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d3"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^CHANGSHA$", 
+    "FRENCH" : "^CHANGSHA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00019", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d4"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^NANCHANG$", 
+    "FRENCH" : "^NANCHANG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00020", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d5"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^SHIJIAZHUANG$", 
+    "FRENCH" : "^SHIJIAZHUANG$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00021", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d6"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^DALIAN$", 
+    "FRENCH" : "^DALIEN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00022", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d7"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^JINAN$", 
+    "FRENCH" : "^JINAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00023", 
+    "FOREIGNKEY" : "CONTINENT03COUNTRY009"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d8"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^MADRID$", 
+    "FRENCH" : "^MADRID$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00024", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY016"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647d9"), 
+    "CATEGORY" : "CITY", 
+    "ENGLISH" : "^ROME$", 
+    "FRENCH" : "^ROME$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "CHCITY_00025", 
+    "FOREIGNKEY" : "CONTINENT04COUNTRY027"
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647da"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-1ER-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-1ER-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT01", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647db"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-2E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-2E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT02", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647dc"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-3E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-3E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT03", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647dd"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-4E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-4E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT04", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647de"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-5E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-5E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT05", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647df"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-6E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-6E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT06", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e0"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-7E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-7E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT07", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e1"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-8E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-8E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT08", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e2"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-9E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-9E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT09", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e3"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-10E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-10E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT10", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e4"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-11E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-11E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT11", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e5"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-12E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-12E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT12", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e6"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-13E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-13E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT13", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e7"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-14E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-14E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT14", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e8"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-15E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-15E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT15", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647e9"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-16E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-16E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT16", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ea"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-17E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-17E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT17", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647eb"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-18E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-18E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT18", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ec"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-19E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-19E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT19", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ed"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "PARIS-20E-ARRONDISSEMENT", 
+    "FRENCH" : "PARIS-20E-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00028ARRONDISSEMENT20", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ee"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--1ER-ARRONDISSEMENT", 
+    "FRENCH" : "LYON--1ER-ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT01", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ef"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--2E--ARRONDISSEMENT", 
+    "FRENCH" : "LYON--2E--ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT02", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f0"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--3E--ARRONDISSEMENT", 
+    "FRENCH" : "LYON--3E--ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT03", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f1"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--4E--ARRONDISSEMENT", 
+    "FRENCH" : "LYON--4E--ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT04", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f2"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--5E--ARRONDISSEMENT", 
+    "FRENCH" : "LYON--5E--ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT05", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f3"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--6E--ARRONDISSEMENT", 
+    "FRENCH" : "LYON--6E--ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT06", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f4"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--7E--ARRONDISSEMENT", 
+    "FRENCH" : "LYON--7E--ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT07", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f5"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--8E--ARRONDISSEMENT", 
+    "FRENCH" : "LYON--8E--ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT08", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f6"), 
+    "CATEGORY" : "ARRONDISSEMENT", 
+    "ENGLISH" : "LYON--9E--ARRONDISSEMENT", 
+    "FRENCH" : "LYON--9E--ARRONDISSEMENT", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "FRCITY_00025ARRONDISSEMENT09", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f7"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "ALPES$", 
+    "FRENCH" : "ALPES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f8"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^BOURGOGNE", 
+    "FRENCH" : "^BOURGOGNE", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647f9"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^BRETAGNE$", 
+    "FRENCH" : "^BRETAGNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647fa"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^CENTRE$", 
+    "FRENCH" : "^CENTRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647fb"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^CORSE$", 
+    "FRENCH" : "^CORSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647fc"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "PYRENEES", 
+    "FRENCH" : "PYRENEES", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647fd"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^HAUTS-DE-FRANCE$", 
+    "FRENCH" : "^HAUTS-DE-FRANCE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647fe"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^ILE-DE-FRANCE$", 
+    "FRENCH" : "^ILE-DE-FRANCE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b647ff"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "NORMANDIE", 
+    "FRENCH" : "NORMANDIE", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64800"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^NOUVELLE-AQUITAINE$", 
+    "FRENCH" : "^NOUVELLE-AQUITAINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64801"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^OCCITANIE$", 
+    "FRENCH" : "^OCCITANIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64802"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^PAYS DE LA LOIRE$", 
+    "FRENCH" : "^PAYS DE LA LOIRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64803"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^PROVENCE-ALPES-CÔTE-D AZUR$", 
+    "FRENCH" : "^PROVENCE-ALPES-CÔTE-D AZUR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64804"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^GUADELOUPE$", 
+    "FRENCH" : "^GUADELOUPE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64805"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^MARTINIQUE$", 
+    "FRENCH" : "^MARTINIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64806"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^GUYANE$", 
+    "FRENCH" : "^GUYANE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64807"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^LA REUNION$", 
+    "FRENCH" : "^LA REUNION$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64808"), 
+    "CATEGORY" : "REGION", 
+    "ENGLISH" : "^MAYOTTE$", 
+    "FRENCH" : "^MAYOTTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64809"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^AIN$", 
+    "FRENCH" : "^AIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6480a"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^AISNE$", 
+    "FRENCH" : "^AISNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6480b"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ALLIER$", 
+    "FRENCH" : "^ALLIER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6480c"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ALPES-DE-HAUTE-PROVENCE$", 
+    "FRENCH" : "^ALPES-DE-HAUTE-PROVENCE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6480d"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTES-ALPES$", 
+    "FRENCH" : "^HAUTES-ALPES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6480e"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ALPES-MARITIMES$", 
+    "FRENCH" : "^ALPES-MARITIMES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6480f"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ARDÈCHE$", 
+    "FRENCH" : "^ARDÈCHE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64810"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ARDENNES$", 
+    "FRENCH" : "^ARDENNES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64811"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ARIÈGE$", 
+    "FRENCH" : "^ARIÈGE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64812"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^AUBE$", 
+    "FRENCH" : "^AUBE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64813"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^AUDE$", 
+    "FRENCH" : "^AUDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64814"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^AVEYRON$", 
+    "FRENCH" : "^AVEYRON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64815"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^BOUCHES-DU-RHÔNE$", 
+    "FRENCH" : "^BOUCHES-DU-RHÔNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64816"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CALVADOS$", 
+    "FRENCH" : "^CALVADOS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64817"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CANTAL$", 
+    "FRENCH" : "^CANTAL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64818"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CHARENTE$", 
+    "FRENCH" : "^CHARENTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64819"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CHARENTE-MARITIME$", 
+    "FRENCH" : "^CHARENTE-MARITIME$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6481a"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CHER$", 
+    "FRENCH" : "^CHER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6481b"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CORRÈZE$", 
+    "FRENCH" : "^CORRÈZE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6481c"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CORSE-DU-SUD$", 
+    "FRENCH" : "^CORSE-DU-SUD$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6481d"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTE-CORSE$", 
+    "FRENCH" : "^HAUTE-CORSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6481e"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CÔTE-D'OR$", 
+    "FRENCH" : "^CÔTE-D'OR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6481f"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CÔTES D'ARMOR$", 
+    "FRENCH" : "^CÔTES D'ARMOR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64820"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^CREUSE$", 
+    "FRENCH" : "^CREUSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64821"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^DORDOGNE$", 
+    "FRENCH" : "^DORDOGNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64822"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^DOUBS$", 
+    "FRENCH" : "^DOUBS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64823"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^DRÔME$", 
+    "FRENCH" : "^DRÔME$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64824"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^EURE$", 
+    "FRENCH" : "^EURE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64825"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^EURE-ET-LOIR$", 
+    "FRENCH" : "^EURE-ET-LOIR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64826"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^FINISTÈRE$", 
+    "FRENCH" : "^FINISTÈRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64827"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^GARS$", 
+    "FRENCH" : "^GARS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64828"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTE-GARONNE$", 
+    "FRENCH" : "^HAUTE-GARONNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64829"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^GERS$", 
+    "FRENCH" : "^GERS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6482a"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^GIRONDE$", 
+    "FRENCH" : "^GIRONDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6482b"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HÉRAULT$", 
+    "FRENCH" : "^HÉRAULT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6482c"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ILLE-ET-VILAINE$", 
+    "FRENCH" : "^ILLE-ET-VILAINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6482d"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^INDRE$", 
+    "FRENCH" : "^INDRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6482e"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^INDRE-ET-LOIRE$", 
+    "FRENCH" : "^INDRE-ET-LOIRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6482f"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ISÈRE$", 
+    "FRENCH" : "^ISÈRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64830"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^JURA$", 
+    "FRENCH" : "^JURA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64831"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LANDES$", 
+    "FRENCH" : "^LANDES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64832"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LOIR-ET-CHER$", 
+    "FRENCH" : "^LOIR-ET-CHER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64833"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LOIRE$", 
+    "FRENCH" : "^LOIRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64834"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTE-LOIRE$", 
+    "FRENCH" : "^HAUTE-LOIRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64835"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LOIRE-ATLANTIQUE$", 
+    "FRENCH" : "^LOIRE-ATLANTIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64836"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LOIRET$", 
+    "FRENCH" : "^LOIRET$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64837"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LOT$", 
+    "FRENCH" : "^LOT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64838"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LOT-ET-GARONNE$", 
+    "FRENCH" : "^LOT-ET-GARONNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64839"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LOZÈRE$", 
+    "FRENCH" : "^LOZÈRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6483a"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MAINE-ET-LOIRE$", 
+    "FRENCH" : "^MAINE-ET-LOIRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6483b"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MANCHE$", 
+    "FRENCH" : "^MANCHE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6483c"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MARNE$", 
+    "FRENCH" : "^MARNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6483d"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTE-MARNE$", 
+    "FRENCH" : "^HAUTE-MARNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6483e"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MAYENNE$", 
+    "FRENCH" : "^MAYENNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6483f"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MEURTHE-ET-MOSELLE$", 
+    "FRENCH" : "^MEURTHE-ET-MOSELLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64840"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MEUSE$", 
+    "FRENCH" : "^MEUSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64841"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MORBIHAN$", 
+    "FRENCH" : "^MORBIHAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64842"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MOSELLE$", 
+    "FRENCH" : "^MOSELLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64843"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^NIÈVRE$", 
+    "FRENCH" : "^NIÈVRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64844"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^NORD$", 
+    "FRENCH" : "^NORD$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64845"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^OISE$", 
+    "FRENCH" : "^OISE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64846"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ORNE$", 
+    "FRENCH" : "^ORNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64847"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^PAS-DE-CALAIS$", 
+    "FRENCH" : "^PAS-DE-CALAIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64848"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^PUY-DE-DÔME$", 
+    "FRENCH" : "^PUY-DE-DÔME$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64849"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^PYRÉNÉES-ATLANTIQUES$", 
+    "FRENCH" : "^PYRÉNÉES-ATLANTIQUES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6484a"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTES-PYRÉNÉES$", 
+    "FRENCH" : "^HAUTES-PYRÉNÉES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6484b"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^PYRÉNÉES-ORIENTALES$", 
+    "FRENCH" : "^PYRÉNÉES-ORIENTALES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6484c"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^BAS-RHIN$", 
+    "FRENCH" : "^BAS-RHIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6484d"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUT-RHIN$", 
+    "FRENCH" : "^HAUT-RHIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6484e"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^RHÔNE$", 
+    "FRENCH" : "^RHÔNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6484f"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTE-SAÔNE$", 
+    "FRENCH" : "^HAUTE-SAÔNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64850"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^SAÔNE-ET-LOIRE$", 
+    "FRENCH" : "^SAÔNE-ET-LOIRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64851"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^SARTHE$", 
+    "FRENCH" : "^SARTHE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64852"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^SAVOIE$", 
+    "FRENCH" : "^SAVOIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64853"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTE-SAVOIE$", 
+    "FRENCH" : "^HAUTE-SAVOIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64854"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^PARIS$", 
+    "FRENCH" : "^PARIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64855"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^SEINE-MARITIME$", 
+    "FRENCH" : "^SEINE-MARITIME$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64856"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^SEINE-ET-MARNE$", 
+    "FRENCH" : "^SEINE-ET-MARNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64857"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^YVELINES$", 
+    "FRENCH" : "^YVELINES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64858"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^DEUX-SÈVRES$", 
+    "FRENCH" : "^DEUX-SÈVRES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64859"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^SOMME$", 
+    "FRENCH" : "^SOMME$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6485a"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^TARN$", 
+    "FRENCH" : "^TARN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6485b"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^TARN-ET-GARONNE$", 
+    "FRENCH" : "^TARN-ET-GARONNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6485c"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^VAR$", 
+    "FRENCH" : "^VAR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6485d"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^VAUCLUSE$", 
+    "FRENCH" : "^VAUCLUSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6485e"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^VANDÉE$", 
+    "FRENCH" : "^VANDÉE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6485f"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^VIENNE$", 
+    "FRENCH" : "^VIENNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64860"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTE-VIENNE$", 
+    "FRENCH" : "^HAUTE-VIENNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64861"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^VOSGES$", 
+    "FRENCH" : "^VOSGES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64862"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^YONNE$", 
+    "FRENCH" : "^YONNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64863"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^TERRITOIRE DE BELFORT$", 
+    "FRENCH" : "^TERRITOIRE DE BELFORT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64864"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^ESSONNE$", 
+    "FRENCH" : "^ESSONNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64865"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^HAUTS-DE-SEINE$", 
+    "FRENCH" : "^HAUTS-DE-SEINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64866"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^SEINE-ST-DENIS$", 
+    "FRENCH" : "^SEINE-ST-DENIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64867"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^SEINE-SAINT-DENIS$", 
+    "FRENCH" : "^SEINE-SAINT-DENIS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64868"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^VAL-DE-MARNE$", 
+    "FRENCH" : "^VAL-DE-MARNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64869"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^VAL-D'OISE$", 
+    "FRENCH" : "^VAL-D'OISE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6486a"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^GUADELOUPE$", 
+    "FRENCH" : "^GUADELOUPE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6486b"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MARTINIQUE$", 
+    "FRENCH" : "^MARTINIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6486c"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^GUYANE$", 
+    "FRENCH" : "^GUYANE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6486d"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^LA REUNION$", 
+    "FRENCH" : "^LA REUNION$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6486e"), 
+    "CATEGORY" : "DEPARTEMENT", 
+    "ENGLISH" : "^MAYOTTE$", 
+    "FRENCH" : "^MAYOTTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6486f"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ADAM$", 
+    "FRENCH" : "^ADAM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM01", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64870"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^EVE$", 
+    "FRENCH" : "^EVE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM02", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64871"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^GABRIEL$", 
+    "FRENCH" : "^GABRIEL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM03", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64872"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^MARIAM$", 
+    "FRENCH" : "^MARIAM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM04", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64873"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^INÈS$", 
+    "FRENCH" : "^INES$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM05", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64874"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^MARIE$", 
+    "FRENCH" : "^MARIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM06", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64875"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^CLAIRE$", 
+    "FRENCH" : "^CLAIRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM07", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64876"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ROSE$", 
+    "FRENCH" : "^ROSE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM08", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64877"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^MAMADOU$", 
+    "FRENCH" : "^MAMADOU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM09", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64878"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^IBRAHIM$", 
+    "FRENCH" : "^IBRAHIM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM10", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64879"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^KENZA$", 
+    "FRENCH" : "^KENZA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM11", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6487a"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^RAYAN$", 
+    "FRENCH" : "^RAYAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM12", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6487b"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^OMAR$", 
+    "FRENCH" : "^OMAR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM13", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6487c"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ALAIN$", 
+    "FRENCH" : "^ALAIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM14", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6487d"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^FAOUZI$", 
+    "FRENCH" : "^FAOUZI$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM15", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6487e"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^FLEURETTE$", 
+    "FRENCH" : "^FLEURETTE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM16", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6487f"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^SABRINE$", 
+    "FRENCH" : "^SABRINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM17", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64880"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^MARIA$", 
+    "FRENCH" : "^MARIA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM18", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64881"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^CLÉMENT$", 
+    "FRENCH" : "^CLEMENT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM19", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64882"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^HEBA$", 
+    "FRENCH" : "^HEBA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM20", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64883"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^JEAN$", 
+    "FRENCH" : "^JEAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM21", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64884"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^MOHAMED$", 
+    "FRENCH" : "^MOHAMED$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM22", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64885"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^CLÉMENCE$", 
+    "FRENCH" : "^CLEMENCE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM23", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64886"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^LINDA$", 
+    "FRENCH" : "^LINDA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM24", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64887"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^KARINE$", 
+    "FRENCH" : "^KARINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM25", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64888"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ROBERT$", 
+    "FRENCH" : "^ROBERT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM26", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64889"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^SIMOM$", 
+    "FRENCH" : "^SIMOM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM27", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6488a"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^KATIA$", 
+    "FRENCH" : "^KATIA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM28", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6488b"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ADEM$", 
+    "FRENCH" : "^ADEM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM29", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6488c"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ALEXANDRE$", 
+    "FRENCH" : "^ALEXANDRE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM30", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6488d"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^GABRIELLE$", 
+    "FRENCH" : "^GABRIELLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM31", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6488e"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^CLEMENTINE$", 
+    "FRENCH" : "^CLEMENTINE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM32", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6488f"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^KILLIAN$", 
+    "FRENCH" : "^KILLIAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM33", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64890"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^LIONEL$", 
+    "FRENCH" : "^LIONEL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM34", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64891"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ROBERTO$", 
+    "FRENCH" : "^ROBERTO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM35", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64892"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^NADIA$", 
+    "FRENCH" : "^NADIA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM36", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64893"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^LINA$", 
+    "FRENCH" : "^LINA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM37", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64894"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^EMIR$", 
+    "FRENCH" : "^EMIR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM38", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64895"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^LEE$", 
+    "FRENCH" : "^LEE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM39", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64896"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^MARTINO$", 
+    "FRENCH" : "^MARTINO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM40", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64897"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^HAMID$", 
+    "FRENCH" : "^HAMID$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM41", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64898"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^SEBASTIAO$", 
+    "FRENCH" : "^SEBASTIAO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM42", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b64899"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^NOUHA$", 
+    "FRENCH" : "^NOUHA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM43", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6489a"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ADAMO$", 
+    "FRENCH" : "^ADAMO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM44", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6489b"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^CLAAUDIA$", 
+    "FRENCH" : "^CLAAUDIA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM45", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6489c"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^ELIAS$", 
+    "FRENCH" : "^ELIAS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM46", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6489d"), 
+    "CATEGORY" : "PRENOM", 
+    "ENGLISH" : "^MAMMA$", 
+    "FRENCH" : "^MAMMA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "PRENOM47", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6489e"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^PREMIER$", 
+    "FRENCH" : "^PREMIER$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM01", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b6489f"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^SOLEIL$", 
+    "FRENCH" : "^SOLEIL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM02", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a0"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^TROPFOR$", 
+    "FRENCH" : "^TROPFOR$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM03", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a1"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^DELOIN$", 
+    "FRENCH" : "^DELOIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM04", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a2"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^MIGNONNE$", 
+    "FRENCH" : "^MIGNONNE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM05", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a3"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^FORT$", 
+    "FRENCH" : "^FORT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM06", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a4"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^GRANDE$", 
+    "FRENCH" : "^GRANDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM07", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a5"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^AIMANT$", 
+    "FRENCH" : "^AIMANT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM08", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a6"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^UNIQUE$", 
+    "FRENCH" : "^UNIQUE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM09", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a7"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^BON$", 
+    "FRENCH" : "^BON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM10", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a8"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^EXCELLE$", 
+    "FRENCH" : "^EXCELLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM11", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648a9"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^CLEMENT$", 
+    "FRENCH" : "^CLEMENT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM12", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648aa"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^JOLIE$", 
+    "FRENCH" : "^JOLIE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM13", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648ab"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^TOUIL$", 
+    "FRENCH" : "^TOUIL$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM14", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648ac"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^MOUSTAFA$", 
+    "FRENCH" : "^MOUSTAFA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM15", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648ad"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^PRINTEMPS$", 
+    "FRENCH" : "^PRINTEMPS$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM16", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648ae"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^RAHMA$", 
+    "FRENCH" : "^RAHMA$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM17", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648af"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^INFORME$", 
+    "FRENCH" : "^INFORME$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM18", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b0"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^SAITOUT$", 
+    "FRENCH" : "^SAITOUT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM19", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b1"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^LABELLE$", 
+    "FRENCH" : "^LABELLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM20", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b2"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^ANGE$", 
+    "FRENCH" : "^ANGE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM21", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b3"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^ETINCELLE$", 
+    "FRENCH" : "^ETINCELLE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM22", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b4"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^LEGRAND$", 
+    "FRENCH" : "^LEGRAND$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM23", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b5"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^BEN SALEM$", 
+    "FRENCH" : "^BEN SALEM$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM24", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b6"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^MARTIN$", 
+    "FRENCH" : "^MARTIN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM25", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b7"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^LEBON$", 
+    "FRENCH" : "^LEBON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM26", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b8"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^DUPONT$", 
+    "FRENCH" : "^DUPONT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM27", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648b9"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^GENEREUX$", 
+    "FRENCH" : "^GENEREUX$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM28", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648ba"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^MAPOUPEE$", 
+    "FRENCH" : "^MAPOUPEE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM29", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648bb"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^MAICIMAINON$", 
+    "FRENCH" : "^MAICIMAINON$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM30", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648bc"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^EMILIANO$", 
+    "FRENCH" : "^EMILIANO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM31", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648bd"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^JONNY$", 
+    "FRENCH" : "^JONNY$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM32", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648be"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^ROBERTINO$", 
+    "FRENCH" : "^ROBERTINO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM33", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648bf"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^LALLEMANDE$", 
+    "FRENCH" : "^LALLEMANDE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM34", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648c0"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^BENBOU$", 
+    "FRENCH" : "^BENBOU$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM35", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648c1"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^NGUYEN$", 
+    "FRENCH" : "^NGUYEN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM36", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648c2"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^PELE$", 
+    "FRENCH" : "^PELE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM37", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648c3"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^MAGHREB$", 
+    "FRENCH" : "^MAGHREB$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM38", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648c4"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^BONFOOT$", 
+    "FRENCH" : "^BONFOOT$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM39", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648c5"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^BOUFARE$", 
+    "FRENCH" : "^BOUFARE$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM40", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648c6"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^CASIO$", 
+    "FRENCH" : "^CASIO$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM41", 
+    "FOREIGNKEY" : ""
+}
+{ 
+    "_id" : ObjectId("5e7a249f00270c03d7b648c7"), 
+    "CATEGORY" : "NOM", 
+    "ENGLISH" : "^OTHMAN$", 
+    "FRENCH" : "^OTHMAN$", 
+    "ABREVGENDEROTHER" : "", 
+    "PRIMARYKEY" : "NOM42", 
+    "FOREIGNKEY" : ""
+}

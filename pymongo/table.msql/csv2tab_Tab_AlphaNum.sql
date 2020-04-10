@@ -1,0 +1,82 @@
+CREATE TABLE `Tab_AlphaNum` (
+    `ID` INTEGER NOT NULL,
+    `_id` VARBINARY(12),
+    `SEMANTIQUE` LONGTEXT,
+    `SUBSEMANTIQUE` LONGTEXT,
+    `REGULAREXPR` LONGTEXT,
+    PRIMARY KEY (`ID`)
+) CHARSET=utf8mb4;
+
+
+
+-- { _id: 5e710cadf87edb1f570c1f94 }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (0, x'5E710CADF87EDB1F570C1F94', 'EMAIL', 'EMAIL', '^[A-Za-z][A-Za-z0-9.]*@[a-zA-Z0-9]+.(FR|fr|COM|com|[a-zA-Z]+)$');
+
+
+-- { _id: 5e710cadf87edb1f570c1f95 }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (1, x'5E710CADF87EDB1F570C1F95', 'TEMPERATURE', 'TEMPERATUREC', '^[0-9]+((.|,)?[0-9]+)?( )?°?( )*(C|CELCIUS)$');
+
+
+-- { _id: 5e710cadf87edb1f570c1f96 }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (2, x'5E710CADF87EDB1F570C1F96', 'TEMPERATURE', 'TEMPERATUREF', '^[0-9]+((.|,)?[0-9]+)?( )?°?( )*(F|FAHRENHEIT)$');
+
+
+-- { _id: 5e710cadf87edb1f570c1f97 }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (3, x'5E710CADF87EDB1F570C1F97', 'MONNAIE', 'DOLLAR', '^[0-9]+( )?$');
+
+
+-- { _id: 5e710cadf87edb1f570c1f98 }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (4, x'5E710CADF87EDB1F570C1F98', 'MONNAIE', 'EUROS', '^[0-9]+( )?€');
+
+
+-- { _id: 5e710cadf87edb1f570c1f99 }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (5, x'5E710CADF87EDB1F570C1F99', 'MONNAIE', 'LIVRE', '^[0-9]+( )?£');
+
+
+-- { _id: 5e710cadf87edb1f570c1f9a }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (6, x'5E710CADF87EDB1F570C1F9A', 'POIDS', 'KILOGRAMMES', '^([0-9]+((,|.)[0-9]+)?( )*(KG|KILOGRAMME|KILOGRAMMES))$');
+
+
+-- { _id: 5e710cadf87edb1f570c1f9b }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (7, x'5E710CADF87EDB1F570C1F9B', 'POIDS', 'GRAMMES', '^([0-9]+((,|.)[0-9]+)?( )*(G|GRAMME|GRAMMES))$');
+
+
+-- { _id: 5e710cadf87edb1f570c1f9c }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (8, x'5E710CADF87EDB1F570C1F9C', 'MESURE', 'CENTIMETRES', '^([0-9]+((,|.)[0-9]+)?( )*(CM|CENTIMETRE|CENTIMETRES))$');
+
+
+-- { _id: 5e710cadf87edb1f570c1f9d }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (9, x'5E710CADF87EDB1F570C1F9D', 'MESURE', 'METRES', '^([0-9]+((,|.)[0-9]+)?( )*(M|METRE|METRES))$');
+
+
+-- { _id: 5e710cadf87edb1f570c1f9e }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (10, x'5E710CADF87EDB1F570C1F9E', 'MESURE', 'KILOMETRES', '^([0-9]+((,|.)[0-9]+)?( )*(KM|KILOMETRE|KILOMETRES))$');
+
+
+-- { _id: 5e7236a7e03d727dfd15a50d }
+INSERT INTO `Tab_AlphaNum` (`ID`, `_id`, `SEMANTIQUE`, `SUBSEMANTIQUE`, `REGULAREXPR`)
+    VALUES
+        (11, x'5E7236A7E03D727DFD15A50D', 'ID', 'ID', '^ID[0-9]+$');
+

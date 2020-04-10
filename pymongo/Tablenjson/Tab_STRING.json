@@ -1,0 +1,36 @@
+{ 
+    "_id" : ObjectId("5e710caef87edb1f570c1fa5"), 
+    "SEMANTIQUE" : "SEXE", 
+    "SUBSEMANTIQUE" : "SEXE_FR", 
+    "REGULAREXPR" : "^f$|FEMME|FEMELLE|F$|HOMME|MALE|^M$|^H$|^m$"
+}
+{ 
+    "_id" : ObjectId("5e710caef87edb1f570c1fa6"), 
+    "SEMANTIQUE" : "SEXE", 
+    "SUBSEMANTIQUE" : "SEXE_EN", 
+    "REGULAREXPR" : "^F$|WOMAN|WIFE|FEMALE+$|MALE|^M$|^MAN$"
+}
+{ 
+    "_id" : ObjectId("5e710caef87edb1f570c1fa7"), 
+    "SEMANTIQUE" : "CIVILITY", 
+    "SUBSEMANTIQUE" : "CIVILITY_FR", 
+    "REGULAREXPR" : "^(M.|MME|MLLE|MONSIEUR|MADAME|MADEMOISELLE)$"
+}
+{ 
+    "_id" : ObjectId("5e710caef87edb1f570c1fa8"), 
+    "SEMANTIQUE" : "CIVILITY", 
+    "SUBSEMANTIQUE" : "CIVILITY_EN", 
+    "REGULAREXPR" : "^(M.|MRS|MS|MISTER|MISS)$"
+}
+{ 
+    "_id" : ObjectId("5e710caef87edb1f570c1fa9"), 
+    "SEMANTIQUE" : "EMAIL", 
+    "SUBSEMANTIQUE" : "EMAIL", 
+    "REGULAREXPR" : "^[A-Za-z]+.?[A-Za-z0-9]*@[a-zA-Z]+.(FR|fr|COM|com|[a-zA-Z]+)$"
+}
+{ 
+    "_id" : ObjectId("5e710caef87edb1f570c1faa"), 
+    "SEMANTIQUE" : "BLOODGROUP", 
+    "SUBSEMANTIQUE" : "BLOODGROUP", 
+    "REGULAREXPR" : "^((A|B|AB|O){1}[+-]{1})$"
+}

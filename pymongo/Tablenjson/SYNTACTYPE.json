@@ -1,0 +1,36 @@
+{ 
+    "_id" : {
+        "CATEGORY" : "DATE", 
+        "SUBCATEGORY" : "DATE"
+    }, 
+    "CATEGORY" : "DATE", 
+    "SUBCATEGORY" : "DATE", 
+    "REGULAREXPR" : "^([a-zA-ZàâçéÉèêëîïôûùüÿñæœ_°@+ -. ]+)?((([0-2][0-9]|3[0-1])(-|/)((0[0-9]|1[0-2])|[a-zA-ZÉàâçéèÛêëîïôûùüÿñæœ_°@+ -.]+)(-|/)[0-9]{4})|([0-9]{4}(-|/)(0[0-9]|1[0-2])(-|/)([0-2][0-9]|3[0-1])))$"
+}
+{ 
+    "_id" : {
+        "CATEGORY" : "NUMBER", 
+        "SUBCATEGORY" : "NUMBER"
+    }, 
+    "CATEGORY" : "NUMBER", 
+    "SUBCATEGORY" : "NUMBER", 
+    "REGULAREXPR" : "^([+ -]?( )*[0-9 ]+(((.)|(,)|( ))[0-9 ]+)?)+$"
+}
+{ 
+    "_id" : {
+        "CATEGORY" : "STRING", 
+        "SUBCATEGORY" : "ALPHABETIQUE"
+    }, 
+    "CATEGORY" : "STRING", 
+    "SUBCATEGORY" : "ALPHABETIQUE", 
+    "REGULAREXPR" : "^[a-zA-ZàâçéèêëîïôÉûùüÿñæœ_°@+ -.]+$"
+}
+{ 
+    "_id" : {
+        "CATEGORY" : "STRING", 
+        "SUBCATEGORY" : "ALPHANUMERIQUE"
+    }, 
+    "CATEGORY" : "STRING", 
+    "SUBCATEGORY" : "ALPHANUMERIQUE", 
+    "REGULAREXPR" : "(([a-zA-Zàâçéèêëîïôûùüÿñæœ_°@+. -]+[0-9]+(.|,|( )|(-)*)?[0-9]*([a-zA-ZàâçéèêëîïôÉûùüÿñæœ_°@+. -]+)*)|([0-9]+((.|,)[0-9]+)?((-)*( )*(°)*)*[a-zA-ZàâçéèêëîÉïôûùüÿñæœ_°@+. -]+((°)|[0-9])*(.|,|( )*|(-)*)?[0-9]*))+$"
+}
